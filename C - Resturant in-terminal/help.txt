@@ -1,0 +1,25 @@
+
+####################   HELP   #####################
+Foods:
+    11 - Menu: prints all the foods
+    12 - Sort: sort foods by price
+    13 - Add food: [name] [price]
+    14 - Edit food: [name]
+    15 - Delete food: [name]
+    16 - Search food: [name]
+
+Order:
+    21 - Orders: prints all the orders
+    22 - Find: [name] finds order by customer name
+    23 - Add order: [food] [name]
+    24 - Edit order: [name] edit food of customer
+    25 - Delete order: [name] deletes order by name
+
+    3 - Resturant financial report
+
+    4 - Reboot: calculates orders and foods
+
+    5 - Exit
+
+    0 - Help: thie menu
+###################################################
